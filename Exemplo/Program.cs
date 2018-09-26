@@ -4,8 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Exemplo de uso com versionamento
-
 namespace Exemplo
 {
     static class Program
